@@ -9,7 +9,7 @@ A passionate Full-Stack and Mobile App Developer from India 🇮🇳
 👯 I’m looking to collaborate on **open-source projects** and **cross-platform mobile apps**  
 🤝 I’m looking for **freelance or internship opportunities** in full-stack development  
 💬 Ask me about anything related to **JavaScript, APIs, Mobile App Development**  
-📫 How to reach me: `hanuprasad259@gmail.com` | [LinkedIn](www.linkedin.com/in/durga-prasad-godaba)  
+📫 How to reach me: `hanuprasad259@gmail.com` | [LinkedIn](www.linkedin.com/in/durga-prasad-godaba/)  
 ⚡ Fun fact: I debug better at midnight than during the day 🌙  
 🛠️ Tech Stack:
 - Frontend: React.js, React Native, HTML5, CSS3
